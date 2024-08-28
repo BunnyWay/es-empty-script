@@ -1,5 +1,11 @@
 # es-empty-script
 
+## 0.3.0
+
+### Minor Changes
+
+- d09f29a: Bump version
+
 ## 0.2.1
 
 ### Patch Changes

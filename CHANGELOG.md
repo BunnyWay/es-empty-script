@@ -1,5 +1,11 @@
 # es-empty-script
 
+## 0.6.0
+
+### Minor Changes
+
+- c2f7c2d: Bump version
+
 ## 0.5.0
 
 ### Minor Changes

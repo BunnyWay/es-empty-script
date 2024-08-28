@@ -1,5 +1,11 @@
 # es-empty-script
 
+## 0.5.0
+
+### Minor Changes
+
+- ec632f1: Bump version
+
 ## 0.4.0
 
 ### Minor Changes

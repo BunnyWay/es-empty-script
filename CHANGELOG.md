@@ -1,5 +1,11 @@
 # es-empty-script
 
+## 0.7.1
+
+### Patch Changes
+
+- cdac6b4: Bump version
+
 ## 0.7.0
 
 ### Minor Changes

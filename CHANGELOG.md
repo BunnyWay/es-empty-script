@@ -1,5 +1,15 @@
 # es-empty-script
 
+## 0.7.0
+
+### Minor Changes
+
+- 74101f9: Bump version
+
+### Patch Changes
+
+- 6ba8db6: Update action to use the latest one
+
 ## 0.6.0
 
 ### Minor Changes

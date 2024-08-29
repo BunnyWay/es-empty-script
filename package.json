@@ -18,7 +18,7 @@
     "lint": "deno lint",
     "test": "deno test --allow-none -A src/**/*.test.ts",
     "check": "deno check src/main.ts",
-    "build": "mkdir dist && deno bundle src/main.ts dist/index.ts",
+    "build": "mkdir -p dist && deno bundle src/main.ts dist/index.ts",
     "dev": "deno run src/main.ts",
     "release": "echo \"No release\"",
     "ci:version": "pnpm changeset version",

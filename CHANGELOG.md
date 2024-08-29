@@ -1,5 +1,11 @@
 # es-empty-script
 
+## 0.7.3
+
+### Patch Changes
+
+- c8182db: Use new version of edge scripting to avoid indicating the port & host
+
 ## 0.7.2
 
 ### Patch Changes

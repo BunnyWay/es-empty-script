@@ -16,15 +16,16 @@
   "license": "MIT",
   "scripts": {
     "lint": "deno lint",
-    "test": "deno test --allow-none -A src/**/*.test.ts",
+    "test": "deno test --permit-no-files -A src/**/*.test.ts",
     "check": "deno check src/main.ts",
-    "build": "mkdir -p dist && deno bundle src/main.ts dist/index.ts",
+    "build": "mkdir -p dist && deno run -A build.mjs",
     "dev": "deno run src/main.ts",
     "release": "echo \"No release\"",
     "ci:version": "pnpm changeset version",
     "ci:publish": "./scripts/publish.sh"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.26.2"
+    "@changesets/cli": "^2.26.2",
+    "esbuild": "^0.25.3"
   }
 }

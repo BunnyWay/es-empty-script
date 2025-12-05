@@ -1,6 +1,6 @@
 {
   "name": "es-empty-script",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "main": "src/index.ts",
   "type": "module",
   "private": true,

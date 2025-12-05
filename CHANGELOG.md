@@ -1,5 +1,11 @@
 # es-empty-script
 
+## 0.7.4
+
+### Patch Changes
+
+- 255c061: Upgrade Bunny SDK Version
+
 ## 0.7.3
 
 ### Patch Changes
